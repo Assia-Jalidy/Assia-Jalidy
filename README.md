@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! I'm Assia Jalidy 👩‍💻</h1>
 
 <p align="center">
-  <b>🎓 Data Scientist & AI Enthusiast | ESI Graduate | NLP & Big Data Passionate</b><br>
+  <b>🎓 Junior Data Scientist | AI & ML Enthusiast 🤖| Generative AI 💡| Predictive Analytics📊 </b><br>
   <i>Open to data-driven challenges and innovation worldwide!</i>
 </p>
 
