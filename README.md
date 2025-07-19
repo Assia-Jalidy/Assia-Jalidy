@@ -2,8 +2,8 @@
 
 <p align="center">
   <b>💻 Junior Data Scientist | AI & ML Enthusiast 🧠 | Generative AI 💡 | Predictive Analytics📊 </b><br>
-  I hold an engineering degree in Knowledge Engineering and Data Science,  
-  earned from the **School of Information Science (ESI) 2024.<br>
+  🎓 I hold an engineering degree in Knowledge Engineering and Data Science,  
+  earned from the **School of Information Science (ESI) 2024 **.<br>
 </p>
 
 
@@ -13,13 +13,7 @@
 
 ---
 
-🎓 I graduated with a degree in Knowledge Engineering & Data Science  
-from the **School of Information Science (ESI) in Rabat, Morocco (2024)**.
-
-💼 I am actively seeking a professional opportunity in **Data Science**, **AI**, or **Digital Transformation**  
-to put my skills into practice and keep learning alongside a collaborative team.
-
-🔬 My areas of expertise include NLP, Machine Learning, Computer Vision, Big Data tools and BI dashboards.
+🔬 My areas of expertise include Machine Learning, NLP, Computer Vision, big data engineering and business intelligence.
 
 ---
 
