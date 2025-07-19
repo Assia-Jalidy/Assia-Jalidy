@@ -28,17 +28,15 @@ I'm always looking to grow, create impact, and be part of bold, data-driven proj
 ---
 ## 🛠️ Technical Skills
 
-
-| Domain                | Tools & Technologies                                                                 |
-|----------------------|----------------------------------------------------------------------------------------|
-| **Languages**         | Python, SQL, PHP, JavaScript, HTML, CSS                                               |
-| **Machine Learning**  | Scikit-learn, XGBoost, LightGBM, TensorFlow, Keras, LSTM, CNN, Clustering, Regression |
-| **NLP & GenAI**       | BERT, BART, T5, HuggingFace, NLTK, Text Summarization, Topic Modeling                 |
-| **Computer Vision**   | OpenCV, YOLOv5, VGG, ResNet, Object Detection, Image Classification                   |
-| **Big Data & Cloud**  | Apache Spark, Databricks, Hadoop, AWS, GCP, Azure                                     |
-| **Databases**         | MySQL, PostgreSQL, MongoDB, Neo4j, Redis                                              |
-| **BI & Visualization**| Power BI, Tableau, Matplotlib, Seaborn, Plotly                                        |
-| **Tools**             | Jupyter, Google Colab, VS Code, Git, Docker                                           |
+| Category                         | Technologies & Tools                                                                                                                                   |
+|----------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 🧑‍💻 **Programming Languages**     | Python, SQL, HTML, CSS, JavaScript, PHP                                                                                                                |
+| 📊 **Data Science & ML**         | Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, TensorFlow, Keras  <br> Predictive Modeling, Classification, Regression, Clustering, Evaluation     |
+| 🧠 **NLP & Generative AI**       | BERT, BART, T5, Transformers, Text Summarization, Named Entity Recognition <br> HuggingFace, SpaCy, NLTK                                              |
+| 👁️ **Computer Vision**          | OpenCV, CNNs, ResNet, VGG, MobileNet, YOLOv5 <br> Image Classification, Object Detection                                                              |
+| ☁️ **Cloud & Big Data**         | Spark, Hadoop, Databricks, AWS, GCP, Azure <br> PySpark, BigQuery                                                                                      |
+| 📈 **BI & Data Visualization**   | Power BI, Tableau, Matplotlib, Seaborn, Plotly                                                                                                         |
+| 🧩 **Databases & Tools**         | MySQL, PostgreSQL, MongoDB, Neo4j <br> Git, Docker, VS Code, Jupyter Notebook                                                                          |
 
 
 
