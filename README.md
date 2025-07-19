@@ -28,32 +28,18 @@ I'm always looking to grow, create impact, and be part of bold, data-driven proj
 ---
 ## 🛠️ Technical Skills
 
-### Programming Languages  
-- Python, SQL, HTML, CSS, JavaScript, PHP
 
-### Data Science & Machine Learning  
-- Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, TensorFlow, Keras  
-- Predictive Modeling, Classification, Regression, Clustering  
-- Model Evaluation & Optimization
+| Domain                | Tools & Technologies                                                                 |
+|----------------------|----------------------------------------------------------------------------------------|
+| **Languages**         | Python, SQL, PHP, JavaScript, HTML, CSS                                               |
+| **Machine Learning**  | Scikit-learn, XGBoost, LightGBM, TensorFlow, Keras, LSTM, CNN, Clustering, Regression |
+| **NLP & GenAI**       | BERT, BART, T5, HuggingFace, NLTK, Text Summarization, Topic Modeling                 |
+| **Computer Vision**   | OpenCV, YOLOv5, VGG, ResNet, Object Detection, Image Classification                   |
+| **Big Data & Cloud**  | Apache Spark, Databricks, Hadoop, AWS, GCP, Azure                                     |
+| **Databases**         | MySQL, PostgreSQL, MongoDB, Neo4j, Redis                                              |
+| **BI & Visualization**| Power BI, Tableau, Matplotlib, Seaborn, Plotly                                        |
+| **Tools**             | Jupyter, Google Colab, VS Code, Git, Docker                                           |
 
-### NLP & Generative AI  
-- BERT, BART, T5, Transformers, Text Summarization, Named Entity Recognition  
-- HuggingFace, SpaCy, NLTK
-
-### Computer Vision  
-- OpenCV, CNNs, ResNet, VGG, MobileNet, YOLOv5  
-- Image Classification, Object Detection
-
-###  Cloud & Big Data  
-- Spark, Hadoop, Databricks, AWS, GCP, Azure  
-- PySpark, BigQuery
-
-###  BI & Data Visualization  
-- Power BI, Tableau, Matplotlib, Seaborn, Plotly
-
-###  Databases & Tools  
-- MySQL, PostgreSQL, MongoDB, Neo4j  
-- Git, Docker, VS Code, Jupyter Notebook
 
 
 ## 📫 Let’s Connect
