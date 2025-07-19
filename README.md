@@ -26,51 +26,19 @@ Today, I’m building my path as a Data Scientist, with a passion for solving re
 I'm always looking to grow, create impact, and be part of bold, data-driven projects.
 
 ---
-<h3>🛠️ Technical Skills</h3>
 
-<table>
-  <thead>
-    <tr style="background-color:#ffccdd;">
-      <th>Category</th>
-      <th>Technologies & Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Programming Languages</b></td>
-      <td>Python, SQL, HTML, CSS, JavaScript, PHP</td>
-    </tr>
-    <tr>
-      <td><b>Data Science & ML</b></td>
-      <td>Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, TensorFlow, Keras<br>
-      Predictive Modeling, Classification, Regression, Clustering, Evaluation</td>
-    </tr>
-    <tr>
-      <td><b>NLP & Generative AI</b></td>
-      <td>BERT, BART, T5, Transformers, Text Summarization, Named Entity Recognition<br>
-      HuggingFace, SpaCy, NLTK</td>
-    </tr>
-    <tr>
-      <td><b>Computer Vision</b></td>
-      <td>OpenCV, CNNs, ResNet, VGG, MobileNet, YOLOv5<br>
-      Image Classification, Object Detection</td>
-    </tr>
-    <tr>
-      <td><b>Cloud & Big Data</b></td>
-      <td>Spark, Hadoop, Databricks, AWS, GCP, Azure<br>
-      PySpark, BigQuery</td>
-    </tr>
-    <tr>
-      <td><b>BI & Data Visualization</b></td>
-      <td>Power BI, Tableau, Matplotlib, Seaborn, Plotly</td>
-    </tr>
-    <tr>
-      <td><b>Databases & Tools</b></td>
-      <td>MySQL, PostgreSQL, MongoDB, Neo4j<br>
-      Git, Docker, VS Code, Jupyter Notebook</td>
-    </tr>
-  </tbody>
-</table>
+## 🛠️ Technical Skills
+
+| 🧩 Category                  | 💡 Technologies & Tools                                                                                                     |
+|-----------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| 🧑‍💻 Programming Languages   | Python, SQL, HTML, CSS, JavaScript, PHP                                                                                     |
+| 📊 Data Science & ML        | Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, TensorFlow, Keras <br> Classification, Clustering, Regression, Evaluation   |
+| 🧠 NLP & Generative AI      | BERT, BART, T5, Transformers, Text Summarization, NER <br> HuggingFace, SpaCy, NLTK                                        |
+| 👁️ Computer Vision         | OpenCV, CNNs, ResNet, VGG, MobileNet, YOLOv5 <br> Image Classification, Object Detection                                    |
+| ☁️ Cloud & Big Data        | Spark, Hadoop, Databricks, AWS, GCP, Azure <br> PySpark, BigQuery                                                            |
+| 📈 BI & Visualization       | Power BI, Tableau, Matplotlib, Seaborn, Plotly                                                                              |
+| 🧰 Databases & Tools        | MySQL, PostgreSQL, MongoDB, Neo4j <br> Git, Docker, VS Code, Jupyter Notebook                                               |
+
 
 ## 📫 Let’s Connect
 
