@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750411-5aa2c5e1-f812-4ec5-b327-2e4eb9b2b5b8.png" width="400" alt="data girl with laptop"/>
+  <img src="https://i.pinimg.com/736x/d1/15/2f/d1152f401e89ddde7eba1fdc21ec4b3c.jpg"/>
 </p>
 
 ---
