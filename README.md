@@ -1,9 +1,12 @@
-<h1 align="center">Hello there! I'm Assia Jalidy 👩‍💻</h1>
+<h1 align="center">Welcome to my data-driven world, I'm Assia Jalidy👩‍💻</h1>
 
 <p align="center">
-  <b>🎓 Junior Data Scientist | AI & ML Enthusiast 🤖| Generative AI 💡| Predictive Analytics📊 </b><br>
+  <b>💻 Junior Data Scientist | AI & ML Enthusiast 🧠 | Generative AI 💡 | Predictive Analytics📊 </b><br>
+  I hold an engineering degree in Knowledge Engineering and Data Science,  
+  earned from the **School of Information Science (ESI) in Rabat, Morocco** in 2024.<br>
   <i>Open to data-driven challenges and innovation worldwide!</i>
 </p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750411-5aa2c5e1-f812-4ec5-b327-2e4eb9b2b5b8.png" width="400" alt="data girl with laptop"/>
