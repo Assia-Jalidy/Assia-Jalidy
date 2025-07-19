@@ -13,7 +13,7 @@
 
 ---
 
-## 💼 About Me
+## 💼 Professional Profile
 
 I started my journey in data through multiple internships that gave me hands-on experience across analytics, machine learning, and business insights.  I then transitioned into my first professional role — a 6-month CDD as a **Data Analyst** — where I worked on real-world datasets, built dashboards, and helped turn data into smart decisions.
 
