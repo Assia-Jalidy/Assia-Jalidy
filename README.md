@@ -1,7 +1,6 @@
 <h1 align="center">Welcome to my data-driven world, I'm Assia Jalidy👩‍💻</h1>
 
 <p align="center">
-  <b>💻 Junior Data Scientist | AI & ML Enthusiast  | Generative AI  | Predictive Analytics </b><br>
   🎓 I hold an engineering degree in Knowledge Engineering and Data Science,  
   earned from the **School of Information Science (ESI) 2024 **.<br>
 </p>
