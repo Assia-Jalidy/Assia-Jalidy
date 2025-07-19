@@ -15,10 +15,9 @@
 
 ## 💼 About Me
 
-I started my journey in data through multiple internships that gave me hands-on experience across analytics, machine learning, and business insights.  
-I then transitioned into my first professional role — a 6-month CDD as a **Data Analyst** — where I worked on real-world datasets, built dashboards, and helped turn data into smart decisions.
+I started my journey in data through multiple internships that gave me hands-on experience across analytics, machine learning, and business insights.  I then transitioned into my first professional role — a 6-month CDD as a **Data Analyst** — where I worked on real-world datasets, built dashboards, and helped turn data into smart decisions.
 
-Today, I’m building my path as a **Data Scientist | Data Analyst | ML Engineer**, with a passion for solving real problems through data and AI.
+Today, I’m building my path as a Data Scientist, with a passion for solving real problems through data and AI.
 
 🧠 I specialize in NLP, computer vision, and predictive modeling  
 ☁️ I work with big data tools, cloud platforms & scalable pipelines  
@@ -33,4 +32,3 @@ I'm always looking to grow, create impact, and be part of bold, data-driven proj
 - 🔗 [LinkedIn](https://www.linkedin.com/in/assia-jalidy-09a74020b)
 - 📧 assiajalidy25@gmail.com
 
-> *“Turning raw data into meaningful insights that drive action.”*
