@@ -13,18 +13,18 @@
 
 ---
 
-🔬 My areas of expertise include Machine Learning, NLP, Computer Vision, big data engineering and business intelligence.
+## 💼 About Me
 
----
+I started my journey in data through multiple internships that gave me hands-on experience across analytics, machine learning, and business insights.  
+I then transitioned into my first professional role — a 6-month CDD as a **Data Analyst** — where I worked on real-world datasets, built dashboards, and helped turn data into smart decisions.
 
-## 🌟 Skills
+Today, I’m building my path as a **Data Scientist | Data Analyst | ML Engineer**, with a passion for solving real problems through data and AI.
 
-- **Languages**: Python, SQL, PHP, HTML, CSS, JS
-- **Big Data & Cloud**: Spark, Databricks, Hadoop, AWS, GCP, Azure
-- **NLP**: BERT, BART, T5, Transformers, Summarization
-- **Vision**: OpenCV, CNNs, ResNet, LSTM
-- **BI Tools**: Power BI, Tableau
-- **Databases**: MongoDB, Neo4j, MySQL, PostgreSQL
+🧠 I specialize in NLP, computer vision, and predictive modeling  
+☁️ I work with big data tools, cloud platforms & scalable pipelines  
+📊 I love turning complex data into clear, visual insights
+
+I'm always looking to grow, create impact, and be part of bold, data-driven projects.
 
 ---
 
