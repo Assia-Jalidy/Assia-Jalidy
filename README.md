@@ -40,8 +40,4 @@ I'm always looking to grow, create impact, and be part of bold, data-driven proj
 |  Databases & Tools        | MySQL, PostgreSQL, MongoDB, Neo4j <br> Git, Docker, VS Code, Jupyter Notebook                                               |
 
 
-## 📫 Let’s Connect
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/assia-jalidy-09a74020b)
-- 📧 assiajalidy25@gmail.com
 
