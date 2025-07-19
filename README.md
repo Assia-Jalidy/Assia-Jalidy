@@ -3,8 +3,7 @@
 <p align="center">
   <b>💻 Junior Data Scientist | AI & ML Enthusiast 🧠 | Generative AI 💡 | Predictive Analytics📊 </b><br>
   I hold an engineering degree in Knowledge Engineering and Data Science,  
-  earned from the **School of Information Science (ESI) in Rabat, Morocco** in 2024.<br>
-  <i>Open to data-driven challenges and innovation worldwide!</i>
+  earned from the **School of Information Science (ESI) 2024.<br>
 </p>
 
 
