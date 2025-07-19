@@ -29,7 +29,7 @@ I'm always looking to grow, create impact, and be part of bold, data-driven proj
 
 ## 🛠️ Technical Skills
 
-| 🧩 Category                  | 💡 Technologies & Tools                                                                                                     |
+|   Category                  |    Technologies & Tools                                                                                                     |
 |-----------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 |  Programming Languages   | Python, SQL, HTML, CSS, JavaScript, PHP                                                                                     |
 |  Data Science & ML        | Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, TensorFlow, Keras <br> Classification, Clustering, Regression, Evaluation   |
