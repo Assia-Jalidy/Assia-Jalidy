@@ -31,13 +31,13 @@ I'm always looking to grow, create impact, and be part of bold, data-driven proj
 
 | 🧩 Category                  | 💡 Technologies & Tools                                                                                                     |
 |-----------------------------|-----------------------------------------------------------------------------------------------------------------------------|
-| 🧑‍💻 Programming Languages   | Python, SQL, HTML, CSS, JavaScript, PHP                                                                                     |
-| 📊 Data Science & ML        | Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, TensorFlow, Keras <br> Classification, Clustering, Regression, Evaluation   |
-| 🧠 NLP & Generative AI      | BERT, BART, T5, Transformers, Text Summarization, NER <br> HuggingFace, SpaCy, NLTK                                        |
-| 👁️ Computer Vision         | OpenCV, CNNs, ResNet, VGG, MobileNet, YOLOv5 <br> Image Classification, Object Detection                                    |
-| ☁️ Cloud & Big Data        | Spark, Hadoop, Databricks, AWS, GCP, Azure <br> PySpark, BigQuery                                                            |
-| 📈 BI & Visualization       | Power BI, Tableau, Matplotlib, Seaborn, Plotly                                                                              |
-| 🧰 Databases & Tools        | MySQL, PostgreSQL, MongoDB, Neo4j <br> Git, Docker, VS Code, Jupyter Notebook                                               |
+|  Programming Languages   | Python, SQL, HTML, CSS, JavaScript, PHP                                                                                     |
+|  Data Science & ML        | Pandas, NumPy, Scikit-learn, XGBoost, LightGBM, TensorFlow, Keras <br> Classification, Clustering, Regression, Evaluation   |
+|  NLP & Generative AI      | BERT, BART, T5, Transformers, Text Summarization, NER <br> HuggingFace, SpaCy, NLTK                                        |
+|  Computer Vision         | OpenCV, CNNs, ResNet, VGG, MobileNet, YOLOv5 <br> Image Classification, Object Detection                                    |
+|  Cloud & Big Data        | Spark, Hadoop, Databricks, AWS, GCP, Azure <br> PySpark, BigQuery                                                            |
+|  BI & Visualization       | Power BI, Tableau, Matplotlib, Seaborn, Plotly                                                                              |
+|  Databases & Tools        | MySQL, PostgreSQL, MongoDB, Neo4j <br> Git, Docker, VS Code, Jupyter Notebook                                               |
 
 
 ## 📫 Let’s Connect
