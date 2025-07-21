@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 I hold an engineering degree in Knowledge Engineering and Data Science,  
-  earned from the **School of Information Science (ESI) 2024 **.<br>
+  earned from the **School of Information Science (ESI)**.<br>
 </p>
 
 
